@@ -7,14 +7,16 @@ Topics include:<br>
 
 * Choosing a Theme/Topic<br>
 * The Conference Organizing Group<br>
+* Monies, Forming a Business, and Taxes<br>
 * Choosing a Date<br>
 * Format Options<br>
 * Venues<br>
+* Attendees and Marketing<br>
+* Speakers<br>
 * Sponsorship<br>
 * Food<br>
-* Attendees and Marketing<br>
 * Swag<br>
-* Monies, Forming a Business, and Taxes
+
 
 
 
