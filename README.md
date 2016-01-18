@@ -3,19 +3,44 @@ The intent of this repo is to provide community members with resources to plan s
 
 Some of these ideas can be expanded to apply to larger regional and for-profit conferences as well; however, the intended scope is the smaller local event. These events are important seeding grounds for those wishing to speak at larger conferences, but who may not have the experience or confidence to submit to speak at larger events. They provide a space for local enthusiasts who may not have the time or financial resources to attend larger conferences and those who find such conferences intimidating. These events are also vital to linking local communities to their larger regional, national, and global brethren.
 
-Topics include:<br>
+All information for this project can be found in the wiki. Topics include:<br>
 
-* Choosing a Theme/Topic<br>
-* The Conference Organizing Group<br>
-* Monies, Forming a Business, and Taxes<br>
-* Choosing a Date<br>
-* Format Options<br>
-* Venues<br>
-* Attendees and Marketing<br>
-* Speakers<br>
-* Sponsorship<br>
-* Food<br>
-* Swag<br>
+[Community Event Wiki Home][Home]
+
+1. [Choosing a Theme/Topic][Choosing a Theme/Topic]
+
+2. [The Conference Organizing Group][The Conference Organizing Group]
+
+3. [Monies, Forming a Business, and Taxes][Monies, Forming a Business, and Taxes]
+
+4. [Choosing a Date][Choosing a Date]
+
+5. [Format Options][Format Options]
+
+6. [Venues][Venues]
+
+7. [Attendees and Marketing][Attendees and Marketing]
+
+8. [Speakers][Speakers]
+
+9. [Sponsorship][Sponsorship]
+
+10. [Food][Food]
+
+11. [Swag][Swag]
+
+[Home]: https://github.com/TashasEv/CommunityEventPlanning/wiki
+[Choosing a Theme/Topic]: https://github.com/TashasEv/CommunityEventPlanning/wiki/1.0-Choosing-a-Theme-Topic
+[The Conference Organizing Group]: https://github.com/TashasEv/CommunityEventPlanning/wiki/2.0-The-Conference-Organizing-Group
+[Monies, Forming a Business, and Taxes]: https://github.com/TashasEv/CommunityEventPlanning/wiki/3.-Monies,-Forming-a-Business,-and-Taxes
+[Choosing a Date]: https://github.com/TashasEv/CommunityEventPlanning/wiki/4.-Choosing-a-Date
+[Format Options]: https://github.com/TashasEv/CommunityEventPlanning/wiki/5.-Format-Options
+[Venues]: https://github.com/TashasEv/CommunityEventPlanning/wiki/6.-Venues
+[Attendees and Marketing]: https://github.com/TashasEv/CommunityEventPlanning/wiki/7.-Attendees-and-Marketing
+[Speakers]: https://github.com/TashasEv/CommunityEventPlanning/wiki/8.-Speakers
+[Sponsorship]: https://github.com/TashasEv/CommunityEventPlanning/wiki/9.-Sponsorship
+[Food]: https://github.com/TashasEv/CommunityEventPlanning/wiki/10.0-Food
+[Swag]: https://github.com/TashasEv/CommunityEventPlanning/wiki/11.0-Swag
 
 
 
