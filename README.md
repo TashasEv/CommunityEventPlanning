@@ -40,7 +40,7 @@ All information for this project can be found in the wiki. Topics include:<br>
 [Speakers]: https://github.com/TashasEv/CommunityEventPlanning/wiki/8.-Speakers
 [Sponsorship]: https://github.com/TashasEv/CommunityEventPlanning/wiki/9.-Sponsorship
 [Food]: https://github.com/TashasEv/CommunityEventPlanning/wiki/10.0-Food
-[Swag]: https://github.com/TashasEv/CommunityEventPlanning/wiki/11.0-Swag
+[Swag]: https://github.com/TashasEv/CommunityEventPlanning/wiki/11.0-Swag-Prizes
 
 
 
