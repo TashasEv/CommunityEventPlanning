@@ -13,11 +13,11 @@ All information for this project can be found in the wiki. Topics include:<br>
 
 3. [Monies, Forming a Business, and Taxes][Monies, Forming a Business, and Taxes]
 
-4. [Choosing a Date][Choosing a Date]
+4. [Choosing a Date][Choosing a Date]  
 
-5. [Format Options][Format Options]
+5. [Venues][Venues]
 
-6. [Venues][Venues]
+6. [Format Options][Format Options]
 
 7. [Attendees and Marketing][Attendees and Marketing]
 
