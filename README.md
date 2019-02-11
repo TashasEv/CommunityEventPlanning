@@ -29,6 +29,8 @@ Topics:<br>
 
 11. [Swag][Swag]
 
+12. [Codes of Conduct][Codes of Conduct]
+
 [Choosing a Theme/Topic]: 01.0-Choosing-a-Theme-Topic.md
 [The Conference Organizing Group]: 02.0-The-Conference-Organizing-Group.md
 [Monies, Forming a Business, and Taxes]: 03.-Monies,-Forming-a-Business,-and-Taxes.md
@@ -40,6 +42,7 @@ Topics:<br>
 [Sponsorship]: 09.-Sponsorship.md
 [Food]: 10.0-Food.md
 [Swag]: 11.0-Swag-Prizes.md
+[Codes of Conduct]: 12.0-Codes-of-Conduct.md
 
 
 
